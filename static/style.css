@@ -1,0 +1,37 @@
+body{
+    background-color: #1A3C40;
+}
+
+#card{
+    background-color: whitesmoke;
+    width: 25rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+    border-radius: 2rem;
+    box-shadow: 0.25rem 0.25rem 0.25rem black;
+}
+
+#self{
+    width: 10rem;
+    margin-top: 3rem;
+}
+
+#name{
+    font-family: 'Bruno Ace', cursive;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+
+#job{
+    margin-top: 1rem;
+    font-size: 3rem;
+    font-family: sacramento;
+}
+
+#contacts img{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 3rem;
+    margin-inline: 1rem;
+}
